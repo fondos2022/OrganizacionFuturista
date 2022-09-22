@@ -3,6 +3,16 @@ body{
 	font-family: sans-serif;/*Tipo de Fuente de Texto*/
 }
 
+header{
+	
+	background-color: #6495ed24;
+	
+}
+
+p{
+	text-align: center;/*El Texto Centrado*/
+}
+
 h1{
 	color: cornflowerblue;
 	text-align: center;/*El Texto Centrado*/
@@ -16,10 +26,4 @@ h2{
 h3{
 	color: cadetblue;
 	text-align: center;/*El Texto Centrado*/
-}
-
-header{
-
-	background-color: azure;
-	
 }
