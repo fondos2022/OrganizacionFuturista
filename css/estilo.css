@@ -1,0 +1,37 @@
+body{
+	background-color: aliceblue;
+	font-family: sans-serif;/*Tipo de Fuente de Texto*/
+}
+
+header{
+	
+	background-color: #6495ed24;
+	
+}
+
+p{
+	text-align: center;/*El Texto Centrado*/
+}
+
+h1{
+	color: cornflowerblue;
+	text-align: center;/*El Texto Centrado*/
+}
+
+h2{
+	color: cadetblue;
+	text-align: center;/*El Texto Centrado*/
+}
+
+h3{
+	color: cadetblue;
+	text-align: center;/*El Texto Centrado*/
+}
+
+table{
+	text-align: center;
+}
+
+footer{
+	font-size: small;
+}
